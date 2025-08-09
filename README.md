@@ -62,7 +62,7 @@
 
   > Generate a concise, accurate answer with references to source sections
 
-- **Features**
+## **Features**
   > Hybrid Retrieval: Supports both text and table lookups.
 
   > Multi-step Reasoning: Breaks down complex queries for better accuracy.
